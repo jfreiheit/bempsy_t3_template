@@ -28,5 +28,5 @@ $EM_CONF[$_EXTKEY] = [
     'author' => 'Jörn Freiheit',
     'author_email' => 'freiheit@htw-berlin.de',
     'author_company' => 'University of Applied Sciences Berlin',
-    'version' => '1.0.2',
+    'version' => '1.0.3',
 ];
